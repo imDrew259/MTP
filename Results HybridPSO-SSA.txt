@@ -1,0 +1,19 @@
+1) Written Hybrid PSO-SSA Code
+2) Resource Utilization directly proportionl to number of iterations
+3) Less throughput is better (Throughput is the time required to complete the tasks in number of seconds)
+	throughput decreases with increasing iterations
+
+4) Iterations:20
+Global Best: [4. 1. 1. 2. 5. 5. 1. 5. 5. 5.]
+Global Best Fitness 77.79698731554971
+Throughput 612.8140575840708
+Resource Utilization 0.6288058078322033
+
+Iterations:100
+Global Best: [4. 2. 1. 1. 3. 1. 3. 3. 3. 2.]
+Global Best Fitness 25.496057717696065
+Throughput 220.20690261475227
+Resource Utilization 0.7355929074979667
+
+5) Increase in swarm size has a overall positive imapct on throughput and Resource Utilization.
+RU-75%
